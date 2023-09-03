@@ -1,0 +1,41 @@
+.toDOList {
+    text-align: center;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    font-size: 40px;
+    letter-spacing: 4px;
+    word-spacing: -8px;
+    color: rgb(117, 71, 255);
+    background-color: rgb(128, 17, 110);
+    text-shadow: 
+      -1px -1px 0 rgb(117, 71, 255)
+      -2px -2px 0 rgb(117, 71, 255)
+      -3px -3px 0 rgb(117, 71, 255)
+      -4px -4px 0 rgb(117, 71, 255)
+      -5px -5px 0 rgb(117, 71, 255),
+      -6px -6px 0 rgb(117, 71, 255)
+      -7px -7px 0 rgb(117, 71, 255)
+      -8px -8px 0 rgb(117, 71, 255)
+      -30px 20px 40px rgb(255, 255, 255);
+     
+  }
+  
+  .done {
+    text-decoration: line-through;
+  }
+  .title
+  {
+    text-align: center;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    font-size: 40px;
+    letter-spacing: 4px;
+    word-spacing: -8px;
+    background-color: blanchedalmond;
+  }
+  .backgroundcolor
+  {
+   background-color: blanchedalmond;
+  }
+  .first
+  {
+    font-weight: bold;
+  }
